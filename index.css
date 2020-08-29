@@ -95,3 +95,29 @@ body {
     width: 30%;
 }
 
+.form-container button{
+    cursor: pointer;
+}
+
+.login {
+    background: #fb641b;
+    border: none;
+    outline: none;
+    color: white;
+    font-weight: 500;
+}
+
+.reqotp {
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 2px 4px 0px;
+    border: none;
+    outline: none;
+    color: rgb(40, 116, 240);
+    font-weight: 500;
+}
+
+.form-container button {
+    width: 60%;
+    height: 45px;
+    margin-left: 20%;
+}
+
